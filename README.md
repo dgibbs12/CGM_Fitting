@@ -1,2 +1,1 @@
-# IonFractions-Cloudy
-A way to obtain ionization fractions from Cloudy courtesy of S, Birds code
+# Sampling Quasar Absorption Spectra using R. Bordoloi's Voigt Fitting and ionization fractions from S. Bird's CLOUDY tables 
