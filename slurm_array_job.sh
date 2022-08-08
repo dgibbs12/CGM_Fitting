@@ -6,7 +6,7 @@
 #SBATCH --cpus-per-task=4 
 #SBATCH --mem=4gb
 #SBATCH --time=120:00:00
-#SBATCH --array=1-22
+#SBATCH --array=1-10
 #SBATCH --output=slurm_sample__%A-%a.log
 
 pwd; hostname; date
